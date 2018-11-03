@@ -5,4 +5,4 @@ Small card game in witch you need to find the villain Magneto. All this is overw
 
 Good luck !
 
-![AppImage](https://github.com/Sorin006/Guess-The-Villain/blob/master/1.jpg)
+![AppImage](https://github.com/Sorin006/Guess-The-Villain/blob/master/1.png)
